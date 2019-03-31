@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>sound/Insaniq2.mo3(2).wav</file>
+        <file>sound/buy.wav</file>
+        <file>sound/die.wav</file>
+        <file>sound/drop.wav</file>
+        <file>sound/money.wav</file>
+        <file>sound/punch.wav</file>
+        <file>sound/shortofmoney.wav</file>
+        <file>sound/warnning.wav</file>
+        <file>sound/eat.wav</file>
+    </qresource>
+</RCC>

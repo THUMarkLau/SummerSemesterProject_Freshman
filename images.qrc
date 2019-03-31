@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="bg">Images/background.png</file>
+        <file alias="icon">Images/icon_fish.png</file>
+        <file alias="menu">Images/menu.jpg</file>
+        <file alias="loading">Images/loading.gif</file>
+        <file alias="bar">Images/Trophybar.gif</file>
+        <file alias="guppi_icon">Images/guppi_icon.jpg</file>
+        <file alias="breeder_icon">Images/breeder_icon.gif</file>
+        <file alias="predator_icon">Images/predator_icon.gif</file>
+        <file alias="bigpredator_icon">Images/bigpredatoricon.jpg</file>
+        <file>Images/bigpredator.png</file>
+        <file>Images/blue_alien.png</file>
+        <file>Images/smalldie.png</file>
+        <file>Images/guppi.png</file>
+        <file>Images/hungryswim.png</file>
+        <file>Images/food.png</file>
+        <file>Images/money.png</file>
+        <file>Images/red_alien.png</file>
+        <file>Images/guppi_mummy_pregnant.png</file>
+        <file>Images/guppi_mummy.png</file>
+        <file>Images/snail.png</file>
+        <file>Images/snail_hide.png</file>
+        <file>Images/breeder.png</file>
+        <file>Images/diebreeder.png</file>
+        <file>Images/hungrybreeder.png</file>
+        <file>Images/predator.png</file>
+        <file>Images/hungrypredator.png</file>
+        <file>Images/diepredator.png</file>
+        <file>Images/diebigpredator.png</file>
+        <file>Images/EggPieces.gif</file>
+        <file>Images/hatchscreen.png</file>
+        <file>Images/gus.png</file>
+        <file>Images/level.png</file>
+        <file>Images/foodicon.gif</file>
+        <file>Images/defeat.png</file>
+        <file>Images/hatchscreen2.png</file>
+        <file>Images/victory.png</file>
+    </qresource>
+</RCC>
